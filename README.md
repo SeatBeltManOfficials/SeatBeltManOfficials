@@ -2,10 +2,7 @@
 ## About Me
 I'm a beginner Indonesian Programmer.
 ## My Skills
-- Python
-- HyperText Markup Languange (HTML)
-- Cascade Styling Sheets (CSS)
-- JavaScript (JS)
+[![My Skills](https://skillicons.dev/icons?i=python,html,css,js)](https://skillicons.dev)
 ## My Social Medias
 - [YouTube](https://youtube.com/@SeatBeltMan.Officials)
 - [TikTok](https://www.youtube.com/@seatbeltman_officials)
